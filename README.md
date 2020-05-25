@@ -2,4 +2,4 @@
 learning github
 
 I wrote down Chinese
-it seems can't be recognized
+this is process to learn how to use github
