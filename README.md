@@ -1,4 +1,5 @@
 # hello-world
 learning github
 
-shuodianshenme bijiaohao
+I wrote down Chinese
+it seems can't be recognized
